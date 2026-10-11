@@ -1,0 +1,19 @@
+
+/* Cambiar el fondo de la página */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Estilo del título */
+h1 {
+    color: darkblue;
+    margin-top: 100px;
+}
+
+/* Estilo del párrafo */
+p {
+    color: black;
+    font-size: 18px;
+}
